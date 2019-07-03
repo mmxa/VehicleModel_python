@@ -2,7 +2,7 @@ import math
 import matplotlib.pyplot as plt
 #reference: https://blog.csdn.net/AdamShan/article/details/78696874
 #author: "MengXiangzhe"
-#time: "3 july 2019"
+#time: "3 July 2019"
 
 class Kinematic_model:
     def __init__(self, x=0, y=0, psi=0, v=1, f_len=1.3, r_len=1.5):
